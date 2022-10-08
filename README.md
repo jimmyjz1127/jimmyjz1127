@@ -1,16 +1,21 @@
-### Hi there 👋
+### About Me
+---
+- I am an undergraduate student based in the Washington DC area
+- Currently studying at the University of St Andrews in Scotland, UK, with the expectation of graduating in 2024
+- Pursuing a BSc in Computer Science 
+---
 
-<!--
-**jimmyjz1127/jimmyjz1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+--- 
+- Front end development & General Web Design
+- Database engineering
+- Operating Systems 
+- AI & Search Algorithms 
+---
 
-Here are some ideas to get you started:
+### Languages:=
+---
+- Java, Python, C, Javascript (NodeJS, ExpressJS, ReactJS), Haskell, PostgreSQL, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
