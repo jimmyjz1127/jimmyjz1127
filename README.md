@@ -13,7 +13,7 @@
 - AI & Search Algorithms 
 ---
 
-### Languages:=
+### Languages
 ---
 - Java, Python, C, Javascript (NodeJS, ExpressJS, ReactJS), Haskell, PostgreSQL, MySQL
 
