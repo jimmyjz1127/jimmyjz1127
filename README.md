@@ -5,17 +5,6 @@
 - Pursuing a BSc in Computer Science 
 ---
 
-### Interests
---- 
-- Front end development & General Web Design
-- Database engineering
-- Operating Systems 
-- AI & Search Algorithms 
----
-
-### Languages
----
-- Java, Python, C, Javascript (NodeJS, ExpressJS, ReactJS), Haskell, PostgreSQL, MySQL
 
 
 
